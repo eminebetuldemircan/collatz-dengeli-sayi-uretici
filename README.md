@@ -98,11 +98,6 @@ görsel olarak değerlendirmeyi mümkün kılar.
 
 ## 6. Kullanım
 
-Projeyi çalıştırmak için Python 3 yüklü bir ortam yeterlidir.
-
-```bash
-python collatz_rastgele_sayi_üretici.py
-
 Program çalıştırıldığında:
 
 Dengeli rastgele sayılar üretilir
@@ -112,3 +107,9 @@ Dengeli rastgele sayılar üretilir
 Denge oranları analiz edilir
 
 Grafikler ekranda gösterilir
+
+Projeyi çalıştırmak için Python 3 yüklü bir ortam yeterlidir.
+
+```bash
+python collatz_rastgele_sayi_üretici.py
+
